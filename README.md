@@ -6,6 +6,7 @@
 ## 📚 Description
 A console-based banking system developed in C++.  
 Supports basic banking operations such as deposits, withdrawals, transfers, and user permission management using bitwise operators.
+
 ![Transactions](images/6.%20Transactions%20Screen.png)
 
 ## ✨ Features
