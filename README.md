@@ -21,6 +21,10 @@ Supports basic banking operations such as deposits, withdrawals, transfers, and 
 2. Open the source code in any C++ IDE (e.g., Code::Blocks, Visual Studio, Dev-C++)
 3. Compile and run the application
 
+## 🔑 System login Authentication
+- Username: Admin
+- Passowrd: 1234
+
 ## 👨‍💻 Author
 **Abdallah Badawi**  
 - Email: eng.abdallah.k.badawi@gmail.com  
